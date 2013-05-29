@@ -17,3 +17,9 @@ Or copy:
 into your browser's URL-bar.
 
 (Unfortunately github doesn't allow data-uris at the moment, so I cannot link it here, it will work on any HTML page, though.)
+
+The un-base64d code:
+
+    <textarea cols=90 rows=24></textarea><br>
+    <button onclick="e=document;d=e.location;w=window;f=d.href;u=w.atob(f.substr(22)); \
+    d.href=f.substr(0,22)+w.btoa(u.substr(0,26)+e.body.children[0].value+u.substr(-198))">link</button>
