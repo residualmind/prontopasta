@@ -3,7 +3,7 @@ prontopasta
 
 server-less, self-contained paste tool
 
-* share text, code, snippeds
+* share text, code, snippets
 * save as bookmarklet for taking quick notes
 * works off-line
 
