@@ -8,7 +8,7 @@ server-less, self-contained paste tool
 * completely contained within a data-uri
 * works off-line
 
-#### See the [example file](example.html) for a link containing the actual tool.
+#### See the [example file](https://rawgithub.com/residualmind/prontopasta/master/example.html) for a link containing the actual tool.
 
 Or copy:
 
@@ -16,7 +16,6 @@ Or copy:
 
 into your browser's URL-bar.
 
-(Unfortunately github doesn't allow data-uris at the moment, so I cannot link it here, it will work on any HTML page, though.)
 
 The un-base64d code:
 
